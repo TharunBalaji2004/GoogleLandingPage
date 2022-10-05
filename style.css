@@ -1,0 +1,35 @@
+/*
+menu:
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtS4lDyBfBtTTH_DxXQKi2oVR_DWWOnSMfv3d0xWytVBO9l1Kh7FmY9-jTWDC6r81DeLQ&usqp=CAU"
+
+profile:
+https://cdn-icons-png.flaticon.com/512/3135/3135823.png
+
+google logo:
+https://www.edigitalagency.com.au/wp-content/uploads/google-logo-png-transparent-background-large-new.png
+
+mic icon:
+https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-25-512.png
+
+search icon:
+https://icon-library.com/images/search-google-icon/search-google-icon-14.jpg
+
+
+*/
+
+.menu-icon{
+    height: 25px;
+}
+
+.user-icon{
+    height: 30px;
+
+}
+
+
+.google-icon{
+    height: 90px;
+    width: 100;
+    margin-top: 120px;
+    margin-left: 100px;
+}
